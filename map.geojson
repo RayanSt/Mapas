@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nombre": "parqueadero 4"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -17,7 +22,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "nombre": "parqueadero 6"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +35,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nombre": "parqueadero 5"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -40,7 +51,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nombre": "parqueadero 1"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -51,7 +67,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nombre": "parqueadero 3"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -62,7 +83,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nombre": "parqueadero 2"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
