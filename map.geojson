@@ -7,7 +7,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nombre": "parqueadero 4"
+        "nombre": "Parquedero Lopez Jimenez"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +23,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nombre": "parqueadero 6"
+        "nombre": "Parqueadero Muñoz Alvarez"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nombre": "parqueadero 5"
+        "nombre": "Parqueadero Morales Silva"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nombre": "parqueadero 1"
+        "nombre": "Parqueadero Mora Rojas"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nombre": "parqueadero 3"
+        "nombre": "Parqueadero Garcia Hernandez"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +87,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nombre": "parqueadero 2"
+        "nombre": "Parqueadero Vargas Garavito"
       },
       "geometry": {
         "type": "Point",
